@@ -1,0 +1,147 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site1.master.cs" Inherits="WebApplication2.Site1" %>
+
+<!DOCTYPE html>
+<!-- CSS Includes -->
+		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/css/bootstrap.min.css">
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/css/bootstrap-theme.min.css">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/js/bootstrap.min.js"></script>
+
+ <script>  
+        function hide() 
+        {  
+            var div = document.getElementById("andi");  
+              
+                div.style.display = "none";  
+             
+            
+        }  
+    </script>  
+
+<script>  
+        function show() 
+        {  
+            var div = document.getElementById("andi");  
+              
+                div.style.display = "block";  
+             
+            
+        }  
+    </script>  
+
+<div class="navbar navbar-inverse navbar-fixed-top" id ="andi">
+            <div class="container">
+                <div class="navbar-header">
+                    <a class="navbar-brand" runat="server" href="#">
+  <asp:Label ID="Label1" runat="server" Text="Label"></asp:Label>
+                   
+                            
+                    
+                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+                    
+                    </a>
+                    
+                    &nbsp;</div>
+                <div class="navbar-collapse collapse" id="bs-example-navbar-collapse-1">
+                    <ul class="nav navbar-nav">
+                         
+                        <%--nxenesit--%>
+                        <li class="dropdown">
+                          <a runat="server"  href="#" data-toggle="dropdown"     class="dropdown-toggle">Nxenesit</a>
+                            <ul class="dropdown-menu">
+                        <li><a runat="server" href="~/WebForm1.aspx">Gjeneralitete</a></li>
+                                 <li><a runat="server" href="~/WebForm1.aspx">Amza</a></li>
+                        </ul>
+                        </li>
+
+                        <%--mesimdhenia--%>
+                         <li class="dropdown">
+                          <a runat="server"  href="#" data-toggle="dropdown"     class="dropdown-toggle">Mesimdhenia</a>
+                            <ul class="dropdown-menu">
+                            <li><a runat="server" href="~/Mesuesit.aspx">Mesuesit</a></li>
+                            <li><a runat="server" href="~/Lendet.aspx">Lendet</a></li>
+                            </ul>
+                        </li>
+
+                       <%-- notat--%>
+                        <li class="dropdown">
+                          <a runat="server" href="#" data-toggle="dropdown"     class="dropdown-toggle">Notat</a>
+                            <ul class="dropdown-menu">
+                                
+                                <li><a runat="server" href="~/Hidh_notat.aspx">Hidh Nota</a></li>
+                                 <li><a runat="server" href="~/Konsulto_nota_nxenesi.aspx">Konsulto Nota</a></li>                                
+                                <li><a runat="server" href="~/Fshi_note.aspx">Modifiko Nota</a></li>
+                            </ul>
+                        </li>
+
+                      <%--  klasa--%>
+                         <li class="dropdown">
+                      <a runat="server" href="#" data-toggle="dropdown"     class="dropdown-toggle">Klasa</a>
+                            <ul class="dropdown-menu">
+                        <li><a runat="server" href="~/Kalo_klase.aspx">Kalo klase</a></li>
+                         <li><a runat="server" href="~/Evidencat.aspx">Evidenca Klasa</a></li>
+                         <li><a runat="server" href="~/Mesuesit_klasat.aspx">Mesuesit Klasa</a></li>
+                        </ul>
+                        </li>
+
+
+  <%--  SHKOLLA--%>
+                           <li class="dropdown">
+                      <a runat="server" href="#" data-toggle="dropdown"     class="dropdown-toggle">Shkolla</a>
+                            <ul class="dropdown-menu">
+                                <li><a runat="server" href="~/Shkolla.aspx"> Konfigurime</a></li>                           
+                                 <li><a runat="server" href="~/Perdorusit_shkolla.aspx"> Perdoruesit </a></li>
+                                 <li><a runat="server" href="~/WebForm2.aspx">Dalje</a></li>
+                        </ul>
+                        </li>
+                      <%--  <li><a runat="server" href="~/Contact">Contact</a></li>--%>
+                  
+                          </ul>
+                                        
+                </div>
+               
+            </div>
+        </div>
+  <div></div>
+<div></div>
+<div></div>  
+
+<html>
+    <head runat="server">
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+
+
+
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div>
+
+    </div>
+        <div>
+
+    </div>
+        <div>
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+        <h1>
+
+
+
+
+aaaaa
+        </h1>
+
+
+            
+       
+        </asp:ContentPlaceHolder>
+    </div>
+    </form>
+</body>
+</html>

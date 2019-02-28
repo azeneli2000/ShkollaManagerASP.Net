@@ -1,0 +1,74 @@
+C:\Users\Andi\Documents\Visual Studio 2015\Projects\WebApplication2\WebApplication2\bin\ApplicationInsights.config
+C:\Users\Andi\Documents\Visual Studio 2015\Projects\WebApplication2\WebApplication2\bin\roslyn\csc.exe
+C:\Users\Andi\Documents\Visual Studio 2015\Projects\WebApplication2\WebApplication2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Andi\Documents\Visual Studio 2015\Projects\WebApplication2\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Andi\Documents\Visual Studio 2015\Projects\WebApplication2\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Andi\Documents\Visual Studio 2015\Projects\WebApplication2\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Andi\Documents\Visual Studio 2015\Projects\WebApplication2\WebApplication2\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Andi\Documents\Visual Studio 2015\Projects\WebApplication2\WebApplication2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Andi\Documents\Visual Studio 2015\Projects\WebApplication2\WebApplication2\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Andi\Documents\Visual Studio 2015\Projects\WebApplication2\WebApplication2\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Andi\Documents\Visual Studio 2015\Projects\WebApplication2\WebApplication2\bin\roslyn\vbc.exe
+C:\Users\Andi\Documents\Visual Studio 2015\Projects\WebApplication2\WebApplication2\bin\roslyn\VBCSCompiler.exe
+C:\Users\Andi\Documents\Visual Studio 2015\Projects\WebApplication2\WebApplication2\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Andi\Documents\Visual Studio 2015\Projects\WebApplication2\WebApplication2\bin\WebApplication2.dll.config
+C:\Users\Andi\Documents\Visual Studio 2015\Projects\WebApplication2\WebApplication2\bin\WebApplication2.dll
+C:\Users\Andi\Documents\Visual Studio 2015\Projects\WebApplication2\WebApplication2\bin\WebApplication2.pdb
+C:\Users\Andi\Documents\Visual Studio 2015\Projects\WebApplication2\WebApplication2\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Andi\Documents\Visual Studio 2015\Projects\WebApplication2\WebApplication2\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Andi\Documents\Visual Studio 2015\Projects\WebApplication2\WebApplication2\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Andi\Documents\Visual Studio 2015\Projects\WebApplication2\WebApplication2\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Andi\Documents\Visual Studio 2015\Projects\WebApplication2\WebApplication2\bin\Microsoft.AI.Web.dll
+C:\Users\Andi\Documents\Visual Studio 2015\Projects\WebApplication2\WebApplication2\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Andi\Documents\Visual Studio 2015\Projects\WebApplication2\WebApplication2\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Andi\Documents\Visual Studio 2015\Projects\WebApplication2\WebApplication2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Andi\Documents\Visual Studio 2015\Projects\WebApplication2\WebApplication2\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Andi\Documents\Visual Studio 2015\Projects\WebApplication2\WebApplication2\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Andi\Documents\Visual Studio 2015\Projects\WebApplication2\WebApplication2\bin\Microsoft.AI.Web.xml
+C:\Users\Andi\Documents\Visual Studio 2015\Projects\WebApplication2\WebApplication2\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Andi\Documents\Visual Studio 2015\Projects\WebApplication2\WebApplication2\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Andi\Documents\Visual Studio 2015\Projects\WebApplication2\WebApplication2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Andi\Documents\Visual Studio 2015\Projects\WebApplication2\WebApplication2\obj\Debug\WebApplication2.dll
+C:\Users\Andi\Documents\Visual Studio 2015\Projects\WebApplication2\WebApplication2\obj\Debug\WebApplication2.pdb
+C:\Users\Andi\Documents\Visual Studio 2015\Projects\WebApplication2\WebApplication2\bin\Microsoft.Azure.NotificationHubs.dll
+C:\Users\Andi\Documents\Visual Studio 2015\Projects\WebApplication2\WebApplication2\bin\Newtonsoft.Json.dll
+C:\Users\Andi\Documents\Visual Studio 2015\Projects\WebApplication2\WebApplication2\bin\Microsoft.Azure.NotificationHubs.xml
+C:\Users\Andi\Documents\Visual Studio 2015\Projects\WebApplication2\WebApplication2\bin\Newtonsoft.Json.xml
+C:\Users\Andi\Documents\Visual Studio 2015\Projects\WebApplication2\WebApplication2\obj\Debug\WebApplication2.csprojResolveAssemblyReference.cache
+C:\Users\Andi\Desktop\WebApplication2\WebApplication2\bin\ApplicationInsights.config
+C:\Users\Andi\Desktop\WebApplication2\WebApplication2\bin\roslyn\csc.exe
+C:\Users\Andi\Desktop\WebApplication2\WebApplication2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Andi\Desktop\WebApplication2\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Andi\Desktop\WebApplication2\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Andi\Desktop\WebApplication2\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Andi\Desktop\WebApplication2\WebApplication2\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Andi\Desktop\WebApplication2\WebApplication2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Andi\Desktop\WebApplication2\WebApplication2\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Andi\Desktop\WebApplication2\WebApplication2\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Andi\Desktop\WebApplication2\WebApplication2\bin\roslyn\vbc.exe
+C:\Users\Andi\Desktop\WebApplication2\WebApplication2\bin\roslyn\VBCSCompiler.exe
+C:\Users\Andi\Desktop\WebApplication2\WebApplication2\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Andi\Desktop\WebApplication2\WebApplication2\bin\WebApplication2.dll.config
+C:\Users\Andi\Desktop\WebApplication2\WebApplication2\bin\WebApplication2.dll
+C:\Users\Andi\Desktop\WebApplication2\WebApplication2\bin\WebApplication2.pdb
+C:\Users\Andi\Desktop\WebApplication2\WebApplication2\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Andi\Desktop\WebApplication2\WebApplication2\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Andi\Desktop\WebApplication2\WebApplication2\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Andi\Desktop\WebApplication2\WebApplication2\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Andi\Desktop\WebApplication2\WebApplication2\bin\Microsoft.AI.Web.dll
+C:\Users\Andi\Desktop\WebApplication2\WebApplication2\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Andi\Desktop\WebApplication2\WebApplication2\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Andi\Desktop\WebApplication2\WebApplication2\bin\Microsoft.Azure.NotificationHubs.dll
+C:\Users\Andi\Desktop\WebApplication2\WebApplication2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Andi\Desktop\WebApplication2\WebApplication2\bin\Newtonsoft.Json.dll
+C:\Users\Andi\Desktop\WebApplication2\WebApplication2\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Andi\Desktop\WebApplication2\WebApplication2\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Andi\Desktop\WebApplication2\WebApplication2\bin\Microsoft.AI.Web.xml
+C:\Users\Andi\Desktop\WebApplication2\WebApplication2\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Andi\Desktop\WebApplication2\WebApplication2\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Andi\Desktop\WebApplication2\WebApplication2\bin\Microsoft.Azure.NotificationHubs.xml
+C:\Users\Andi\Desktop\WebApplication2\WebApplication2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Andi\Desktop\WebApplication2\WebApplication2\bin\Newtonsoft.Json.xml
+C:\Users\Andi\Desktop\WebApplication2\WebApplication2\obj\Debug\WebApplication2.csprojResolveAssemblyReference.cache
+C:\Users\Andi\Desktop\WebApplication2\WebApplication2\obj\Debug\WebApplication2.dll
+C:\Users\Andi\Desktop\WebApplication2\WebApplication2\obj\Debug\WebApplication2.pdb
